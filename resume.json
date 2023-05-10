@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "theme": "kendall"
+  },
+  "basics": {
+    "name": "Brian Tran",
+    "label": "Software Engineer",
+    "image": "",
+    "summary": "Experienced Actuarial Analyst with 6+ years background in all aspects of the Software Development Life Cycle; from developing automated analytical reports for executives to implementing, testing, and deployment of code. Proficient in a wide variety of programs and tools to deliver scaleable and reuseable applications that provide meaningful and accurate results that also tell a story. Loves to think outside the box and seeks a challenge.",
+    "url": "https://linktr.ee/briantran.dev",
+    "email": "briantran.math@gmail.com",
+    "location": {
+      "city": "Escondido",
+      "region": "CA",
+      "countryCode": "USA"
+    },
+    "profiles": [
+      {
+        "username": "briantran",
+        "url": "https://www.linkedin.com/in/briantran-math/",
+        "network": "linkedin"
+      },
+      {
+        "url": "https://github.com/exobrian",
+        "username": "exobrian",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "startDate": "2013-09-01",
+      "endDate": "2016-03-18",
+      "area": "Applied Mathematics",
+      "studyType": "B.S.",
+      "institution": "California State Polytechnic University, Pomona",
+      "gpa": "3.88"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "Beginner",
+      "keywords": ["HTML", "CSS", "Flex"]
+    },
+    {
+      "name": "Backend",
+      "level": "Intermediate",
+      "keywords": ["Java", "Spring", "REST API", "Python", "MSSQL", "MySQL", "RDBMS", "JavaScript"]
+    },
+    {
+      "name": "Other",
+      "level": "Intermediate",
+      "keywords": ["Git", "Docker", "R", "SOAP", "REST", "Postman", "XML", "JSON", "Linux", "JIRA", "WSDL", "YAML", "Statistics", "Mathematical Modeling", "Forecasting"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Elevate Award",
+      "awarder": "ICW Group",
+      "summary": "The Elevate Award is a prestigious award provided to ICW Group Team Members who exemplify the core values of the organization and go above and beyond their roles and responsibilities. ",
+      "date": "2019-09-01"
+    }
+  ],
+  "work": [
+    {
+      "summary": "Quoting more than $3.5 billion annually, ICW Group Insurance Companies is the largest privately held insurance company domiciled in California.  I develop and maintain the logic for pricing our workers compensation line and work closely with various departments such as DevOps, DBA, and Underwriting to ensure timely and accurate production releases. I also conduct various analyses to ensure our rates are fair and reflect the latest trends. I have built several applications to automate much of my department's tasks and to facilitate handling large amounts of data using various languages such as Java, Python, R, SQL, VBA, Batch scripts, etc. I'm also currently developing for our XML and Excel based pricing API, building out JSON test cases for our QA work using Postman, assisting our development team in porting existing code from various languages to Java, debugging and implementing fixes for our nightly SQL ETL pipelines, and a host of other responsibilities.",
+      "website": "https://www.icwgroup.com/",
+      "name": "ICW Group",
+      "location": "San Diego, CA",
+      "position": "Intermediate Actuarial Analyst",
+      "startDate": "2016-06-07",
+      "highlights": ["Design and build ETL application in VBA using Factory and Reflection Patterns to process over 30 excel tables of varying dimensions and locations for upload to a normalized SQL database",
+        "Rebuild SQL ETL stored procedure to random sample warehouse data up to a specified size to reduce individual data pulls from an iterative 21 pull process down to a single pull",
+        "Automate data cleaning, uploading, and manipulation tasks using VBA, R, SQL, and Python", 
+        "Debug SQL ETL pipelines with over 15,000 lines of code",
+        "Pair-program with other Java developers to build pricing webservice API using Springboot",
+        "Conduct actuarial analyses on loss forecasting, credibility weighting, territorial segmentation, and other studies to offer competitive prices",
+        "Design JSON test samples for testing webservices using Postman", 
+        "Work with end users on defining SRS for new features",
+        "Train new and rotational staff on writing clean, reuseable, and scaleable code"
+        ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cooking",
+      "keywords": ["Grilling", "Sous Vide", "Vietnamese", "Hot Sauce"]
+    },
+    {
+      "name": "Guitars",
+      "keywords": ["6-String", "7-String", "8-String"]
+    },
+    {
+      "name": "Photography",
+      "keywords": ["Wedding", "Portrait", "Travel"]
+    },
+    {
+      "name": "Arnold Schwarzenegger",
+      "keywords": ["Bodybuilding", "YAARRGHHHH"]
+    }
+  ]
+}

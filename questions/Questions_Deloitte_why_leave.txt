@@ -1,0 +1,21 @@
+Background a good fit
+I think my background is a bit unique and would provide a great fit for this role. Coming from a small actuarial team, I've learned how to adapt to all sorts of situations whether it be performing analyses, building models, and condensing it down to a high-level executive report, to building out enterprise level applications for other departments to call. My variety of experiences allows me to view problems from different perspectives and helps me think outside the box for creative solutions. 
+I would also consider myself to be a quick learner. 
+I started by building automated tools to help make our workflows more efficient. I picked up a variety of programming languages that fit our needs and tried to understand other systems in place in order to better serve our clients.
+
+
+Why am I leaving my position?
+Firstly, I would like to preface this by saying I love my current work. My company and my team have been invaluable in developing the person I am today and I'm immensely grateful. My biggest motivator in leaving is that I'm trying to push myself to grow. 
+
+I initially chose my profession because of the challenge from the actuarial exams. But when I first started at ICW, I realized I bit off a bit more than I could chew. Our department was really small at the time and we owned alot of processes including development on our pricing application and the data pipelines that connect to it. 
+
+Rather than giving up and letting my team down, I became a bit obsessed with trying to learn everything I could. I picked up a variety of programming languages in order to automate our workflows and tried to understand the other systems that were in place in order to better serve our clients.
+
+Eventually, I became the subject matter expert for our pricing application and was approached by our development team to assist in redesigning and building a new pricing application from the ground up. While working on that project, I realized that my true passion was building applications and software. So I trained myself to be a better Software Engineer, took courses alongside my wife while she purseud her CS degree, tackled as many LeetCode problems as I could, and kept finding myself wanting more. 
+
+Now that our application is nearing its launch, the agreement that I would assist the development team is coming to an end. And so, I've made the difficult decision to leave and pursue opportunities that would help grow my development skills.
+
+
+
+
+

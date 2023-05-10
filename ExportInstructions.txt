@@ -1,0 +1,6 @@
+https://github.com/jsonresume/resume-cli/issues/408#issuecomment-957176231
+
+1. install theme locall
+i.e. npm install <theme name>
+
+2. resume export resume .pdf --theme ./node_modules/<theme name>

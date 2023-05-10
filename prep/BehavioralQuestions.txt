@@ -1,0 +1,27 @@
+STAR:
+Situation
+Task
+Action
+Result
+
+Improve a process:
+Rate Analyzer runs one state at a time. Complex due to ETL and settings needed for each individual state. Plus run time.
+I noticed it was a severe bottleneck for my team since everyone had to wait their turn due to only having 9 sandboxes.
+I developed a suite of tools in various languages (R, SQL, Batch files) to load a variety of data in a more automated and efficient way.
+For example, I noticed we didn't always need to load all the data in. Wrote random sampling into SQL to cut down on data size.
+
+Each job takes 2hours to run across 21 states, plus additional time to process and load. Need to run at minimum 3 times each. Total, that's about 21 hours of work if nothing goes wrong.
+Eventually, I brought that down to 3 hours total.
+
+Tell me about a time when you dealt with failure:
+Early on in my career, I was responding to a Request for Change ticket to remove a feature in our pricing api (logic based in Excel).
+Tricky to remove since it's so tightly woven into other logic and spread throughout multiple modules.
+Eventually I was able to remove it and pushed it to production.
+Months later, it was discovered the request was a mistake and the feature should have never been removed.
+I had to retroactively make the change across several different versions. 
+I moved too fast and didn't test thoroughly. Turns out, I missed a small piece of logic.
+It led to a miscalculation in the premium for a specific state.
+A User reported the bug weeks later. I was able to quickly fix it and pushed in a hotfix.
+
+Since then, I've learned to be much more careful in my coding and build in lots of testing. I also suggested our team have a peer review set up for future implementations like this. I've learned more about unit testing and other best practices.
+I've made many deployments since then without further issues.

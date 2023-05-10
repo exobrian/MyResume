@@ -1,0 +1,6 @@
+!.gitignore
+!*resume*.*
+~*
+$*'=
+*headshots/*
+*node_modules/*

@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "gatsby-theme-jsonresume": "^1.2.0",
+    "jsonresume-theme-compact-extended": "^1.0.3",
+    "jsonresume-theme-curzy": "^1.0.9",
+    "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-eloquent": "^4.1.0",
+    "jsonresume-theme-even": "^0.17.1",
+    "jsonresume-theme-hexagon": "^1.0.0",
+    "jsonresume-theme-kendall": "^0.2.0",
+    "jsonresume-theme-material": "^1.3.1",
+    "jsonresume-theme-mocha-responsive": "^1.1.1",
+    "jsonresume-theme-sfy": "^1.0.4",
+    "jsonresume-theme-vp": "^1.1.0"
+  }
+}

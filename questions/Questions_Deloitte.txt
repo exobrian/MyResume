@@ -1,0 +1,10 @@
+Thanks again for taking the time to chat with me today Alexander! I really appreciate it.
+
+I do have a few questions to help me understand the role a bit more, now that my brain had time to marinate. Feel free to skip any of these though!
+
+1. Would you be able to give some examples of typical projects this role would entail?
+2. It seems like the team is pretty open with the tech stack for projects. Are there any that the team openly prefers or avoids? i.e. NoSQL vs SQL, AWS vs GCP, etc.
+3. What level of traffic do the typical web applications/projects serve? Is scalability a typical concern?
+4. What does the onboarding process look like?
+5. What are the 3 most important values in a candidate for this role?
+6. I am pretty excited for a career at Deloitte. If it turns out this role is not a good fit, are there other roles you may have that you think I would be a good fit for?
