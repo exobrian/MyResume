@@ -1,0 +1,18 @@
+Java
+Python
+JavaScript
+SQL (e.g., MSSQL, MySQL)
+Back-end frameworks (e.g., Flask, Spring Boot)
+Agile software development
+Git/GitHub
+RESTful APIs
+SOAP APIs
+Cloud computing (e.g., AWS EC2)
+Unit Testing (e.g., JUnit)
+Object-oriented programming (OOP)
+JIRA
+Containerization (e.g., Docker)
+Python Data Analysis (e.g., Pandas, Scikit-learn)
+XML
+JSON
+Problem-solving and critical thinking
