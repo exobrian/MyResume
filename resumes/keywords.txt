@@ -2,6 +2,8 @@ Java
 Python
 JavaScript
 SQL (e.g., MSSQL, MySQL)
+HTML
+CSS
 Back-end frameworks (e.g., Flask, Spring Boot)
 Agile software development
 Git/GitHub
